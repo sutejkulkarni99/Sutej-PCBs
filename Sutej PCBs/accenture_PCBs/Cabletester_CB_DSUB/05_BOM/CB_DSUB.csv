@@ -1,0 +1,7 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SJ1";"SJ";1;"SolderJumper-2pin";;;
+2;"J7";"Molex_KK254_22032021_01_02x2.54mm_Straight";1;"Conn_01x02_Male";;;
+3;"J2";"DSUB-15_Female_Vertical_P2.77x2.84mm_MountingHoles";1;"DB15_Female_Straight";;;
+4;"J1";"DSUB-9_Female_Vertical_P2.77x2.84mm_MountingHoles_FCC";1;"DB9_Female_Straight";;;
+5;"J6,J5,J4";"DSUB-37_Female_Vertical_P2.77x2.84mm_MountingHoles";3;"DB37_Female_MountingHoles";;;
+6;"J3";"DSUB-25_Female_Vertical_P2.77x2.84mm-FCC";1;"DB25_Female_Straight";;;

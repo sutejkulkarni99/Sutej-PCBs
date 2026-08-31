@@ -1,0 +1,9 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J13,J4-1,J4-2,J14";"TE-c-9-2304372-9-a";4;"Conn_01x04_1.27mm_Female";;;
+2;"SJ1";"SJ";1;"SolderJumper-2pin";;;
+3;"J6-1,J6-2";"E6S20B-40MT5-Z";2;"Rosenberger-E6S20B-40MT5-Z";;;
+4;"J9,J15";"9-2305987-9";2;"TE-9-2305987-9";;;
+5;"J6,J5,J2-4,J4";"E6S20A-40MT5-Z";4;"Rosenberger-E6S20A-40MT5-Z";;;
+6;"J1-1";"IX61G-A-10P";1;"Daimler-IX61G-A-10P";;;
+7;"J8";"E6S20D-40MT5-Z";1;"Rosenberger-E6S20D-40MT5-Z";;;
+8;"J16,J1";"DSUB-37_Female_Vertical_P2.77x2.84mm_Flat_MountingHoles";2;"DB37_Female_MountingHoles_Flat";;;
